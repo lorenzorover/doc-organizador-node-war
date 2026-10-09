@@ -1,4 +1,13 @@
-# ⚔️ Organizador Nodewar & Discord Sync Bot
+# ⚔️ Organizador Nodewar — Sistema Tático & Discord Sync Bot
+
+[![Versão](https://img.shields.io/badge/VERSÃO-1.0.0-0284c7?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/STATUS-EM_PRODUÇÃO-16a34a?style=flat-square)](#)
+[![Frontend](https://img.shields.io/badge/FRONTEND-VANILLA_JS-f59e0b?style=flat-square&logo=javascript&logoColor=black)](#)
+[![Python](https://img.shields.io/badge/PYTHON-3.10+-3776ab?style=flat-square&logo=python&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/DISCORD-API_GATEWAY-5865f2?style=flat-square&logo=discord&logoColor=white)](#)
+[![Database](https://img.shields.io/badge/DATABASE-FIRESTORE-ffca28?style=flat-square&logo=firebase&logoColor=black)](#)
+[![Deploy](https://img.shields.io/badge/DEPLOY-FIREBASE_HOSTING-0284c7?style=flat-square&logo=firebase&logoColor=white)](https://organizador-node-war.web.app/)
+[![Licença](https://img.shields.io/badge/LICENÇA-MIT-64748b?style=flat-square)](#)
 
 > Sistema reativo de gerenciamento e montagem tática de grupos (**PTs**) para **Node War** (Black Desert Online), integrado em tempo real com o Discord através de uma arquitetura serverless no **Google Firebase Firestore**.
 
@@ -130,12 +139,6 @@ Se o jogador já estiver alocado em uma **PT de combate**, a alteração entra e
   - Leitura pública para que membros da guilda visualizem a formação sem necessidade de login.
   - Escrita no setup protegida por autenticação (`request.auth != null`), limitando alterações a líderes autorizados.
   - Validação estrita de tamanho de payload (`jsonData.size() < 50000`) para mitigar abusos e injeção de dados anômalos.
-
----
-
-## 🖥️ Demonstração Visual do APP
-
-<img src="https://github.com/lorenzorover/doc-organizador-node-war/blob/main/img-demonstracao.png?raw=true"></img>
 
 ---
 
