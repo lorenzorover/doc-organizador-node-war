@@ -133,6 +133,12 @@ Se o jogador já estiver alocado em uma **PT de combate**, a alteração entra e
 
 ---
 
+# 🖥️ Demonstração Visual do APP
+
+<img src="https://github.com/lorenzorover/doc-organizador-node-war/blob/main/img-demonstracao.png?raw=true"></img>
+
+---
+
 ## 🗺️ Roadmap de Desenvolvimento
 
 O projeto segue um plano de evolução para tornar o processo de montagem de Node War 100% autônomo:
