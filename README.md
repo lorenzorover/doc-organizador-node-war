@@ -167,9 +167,3 @@ O projeto segue um plano de evolução para tornar o processo de montagem de Nod
 - Capturar o evento de edição da lista de presença da Node War (Embed de Signups do CoGM).
 - Identificar a lista de inscritos confirmados (30 a 50 participantes) e suas respectivas categorias (Mainball, Shai, Frontline, Flex, etc.).
 - Preencher as colunas de PTs no organizador automaticamente respeitando a distribuição tática ideal de cada função.
-
----
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Sinta-se livre para adaptar e utilizar na gestão de sua guilda.
